@@ -27,8 +27,8 @@ description: > # this means to ignore newlines until "baseurl:"
   PhD Candidate at the Colorado School of Mines working to improve the representation of water 
   management processes in integrated hydrologic models.
 
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "lmthatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "lmthatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: lmthatch26
 #github_username:  lmthatch
 
