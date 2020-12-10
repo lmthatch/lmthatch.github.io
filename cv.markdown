@@ -10,6 +10,7 @@ Last Updated: December 2020
 
 ## Education
 * * *
+<br>
 **Ph.D. Colorado School of Mines (in progress)** <br>
 *Hydrologic Science and Engineering*<br>
 Advisor: Reed Maxwell<br>
@@ -27,12 +28,14 @@ Advisor: Reed Maxwell<br>
 ## Academic Employment
 
 * * *
+<br>
 **Graduate Research Assistant, Colorado School of Mines**<br>
 Advisor: Reed Maxwell, Ph.D.<br>
 May 2017 to Present<br>
 
 ## Professional Employment
 * * *
+<br>
 **US Bureau of Reclamation, Lakewood, CO**<br>
 *Intern*<br>
 May 2017 to Present<br>
