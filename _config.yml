@@ -18,26 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "lmthatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Lauren M. Thatch
+author:
+  name: Lauren Thatch
+  email: laurenmthatch@gmail.com
+  emailsecond: lmthatch@mines.edu
+description: > # this means to ignore newlines until "baseurl:"
+  PhD Candidate at the Colorado School of Mines working to improve the representation of water 
+  management processes in integrated hydrologic models.
+
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "lmthatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: lmthatch26
+#github_username:  lmthatch
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 header_pages:
-        - about.markdown
-        - cv.markdown
+  - about.markdown
+  - cv.markdown
+
+# change minima theme
+minima:
+        #skin: solarized
+  
+  # generate social links in footer
+  social_links:
+    twitter: lmthatch26
+    github: lmthatch
+    linkedin: lauren-thatch-pe-9b180321
 
 # Exclude from processing.
 # The following items will not be processed, by default.

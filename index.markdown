@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+need to figure out how to remove the posts thing lol
